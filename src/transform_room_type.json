@@ -1,0 +1,6 @@
+{"room_type" : [{
+    "Private_room": 0,
+    "Entire_home/apt": 1,
+    "Shared_room": 2
+}]
+}
