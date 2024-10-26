@@ -1,8 +1,1 @@
-{"neighbourhood_group" : [{
-    "Brooklyn": 0,
-    "Manhattan": 1,
-    "Queens": 2,
-    "Stanten_Island": 3,
-    "Bronx": 4
-}]
-}
+{"Brooklyn": 0, "Manhattan": 1, "Queens": 2, "Staten Island": 3, "Bronx": 4}
